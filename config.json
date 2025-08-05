@@ -163,6 +163,11 @@
       "query": "恐怖"
     },
     {
+      "name": "战争",
+      "type": "movie",
+      "query": "战争"
+    },
+    {
       "name": "治愈",
       "type": "movie",
       "query": "治愈"
@@ -183,14 +188,14 @@
       "query": "英剧"
     },
      {
-      "name": "韩剧",
+      "name": "国产动漫",
       "type": "tv",
-      "query": "韩剧"
+      "query": "国产动漫"
     },
      {
-      "name": "日剧",
+      "name": "日本动漫",
       "type": "tv",
-      "query": "日剧"
+      "query": "日本动漫"
     },
      {
       "name": "国产剧",
@@ -203,9 +208,9 @@
       "query": "港剧"
     },
      {
-      "name": "日本动画",
+      "name": "里番动漫",
       "type": "tv",
-      "query": "日本动画"
+      "query": "里番动漫"
     },
      {
       "name": "综艺",
