@@ -123,14 +123,9 @@
       "query": "欧美"
     },
     {
-      "name": "韩国",
+      "name": "动画电影",
       "type": "movie",
-      "query": "韩国"
-    },
-        {
-      "name": "日本",
-      "type": "movie",
-      "query": "日本"
+      "query": "动画电影"
     },
     {
       "name": "动作",
@@ -147,7 +142,17 @@
       "type": "movie",
       "query": "爱情"
     },
-      {
+    {
+      "name": "战争",
+      "type": "movie",
+      "query": "战争"
+    },
+    {
+      "name": "治愈",
+      "type": "movie",
+      "query": "治愈"
+    },
+    {
       "name": "科幻",
       "type": "movie",
       "query": "科幻"
@@ -162,15 +167,10 @@
       "type": "movie",
       "query": "恐怖"
     },
-    {
-      "name": "战争",
+{
+      "name": "伦理片",
       "type": "movie",
-      "query": "战争"
-    },
-    {
-      "name": "治愈",
-      "type": "movie",
-      "query": "治愈"
+      "query": "伦理片"
     },
      {
       "name": "热门",
@@ -207,12 +207,7 @@
       "type": "tv",
       "query": "港剧"
     },
-     {
-      "name": "里番动漫",
-      "type": "tv",
-      "query": "里番动漫"
-    },
-     {
+    {
       "name": "综艺",
       "type": "tv",
       "query": "综艺"
@@ -221,6 +216,11 @@
       "name": "纪录片",
       "type": "tv",
       "query": "纪录片"
+    },
+     {
+      "name": "里番动漫",
+      "type": "tv",
+      "query": "里番动漫"
     }
   ]
 }
